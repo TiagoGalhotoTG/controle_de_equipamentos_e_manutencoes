@@ -1,0 +1,8 @@
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago\OneDrive\Desktop\controle_de_equipamentos_e_manutencoes\ControleEquipamentosAPI\obj\Debug\net8.0\ControleEquipamentosAPI.sourcelink.json
